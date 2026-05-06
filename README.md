@@ -38,8 +38,6 @@ sudo python3 network_scanner.py
 - `requirements.txt`: List of necessary Python libraries[cite: 3].
 - `README.md`: Project documentation[cite: 3].
 
-## ⚖️ License
-Distributed under the **MIT License**. You are free to use it for personal or professional projects[cite: 3].
 
 ---
 *Developed by RolandR19*
