@@ -1,0 +1,6 @@
+rich
+scapy
+netifaces
+psutil
+requests
+manuf
